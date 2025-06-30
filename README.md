@@ -6,6 +6,8 @@ Official PyTorch implementation of the ICCV 2025 paper **CATSplat: Context-Aware
 
 Wonseok Roh*, Hwanhee Jung*, Jong Wook Kim, Seunggwan Lee, Innfarn Yoo, Andreas Lugmayr, Seunggeun Chi, Karthik Ramani, Sangpil Kim
 
+<br>
+
 <div align="center">
   <img src="figs/main_arch.png"/>
 </div>
