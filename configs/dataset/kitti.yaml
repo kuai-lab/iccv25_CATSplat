@@ -1,0 +1,21 @@
+name: kitti
+data_path: /data/wonseok/kitti
+pose_path: /data/wonseok/flash3d_cross_domain/datasets/kitti_raw/orb-slam_poses
+depth_path: null
+split_path: /data/wonseok/flash3d_cross_domain/splits
+split: tulsiani2
+png: false
+
+height: 128
+width: 384
+
+znear: 0.01
+zfar: 100.0
+stereo: true
+color_aug: false
+keep_aspect_ratio: false
+precise_intrinsics: true
+flip_left_right: false
+pad_border_aug: 0
+
+scale_pose_by_depth: false

@@ -9,7 +9,7 @@ Wonseok Roh*, Hwanhee Jung*, Jong Wook Kim, Seunggwan Lee, Innfarn Yoo, Andreas 
 <br>
 
 <div align="center">
-  <img src="figs/main_arch.png"/>
+  <img src="assets/main_arch.png"/>
 </div>
 
 <br>
@@ -70,9 +70,7 @@ To train on the RealEstate10K dataset, simply run the following command:
 python train.py \
   +experiment=layered_re10k \
   model.depth.version=v1 \
-  train.logging=false \
-  hydra.run.dir=[PATH_TO_EXPERIMENT_DIRECTORY] \
-  run.checkpoint=[PATH_TO_CHECKPOINT]
+  train.logging=false
 ```
 
 Or you can simply run `train_single.sh`
