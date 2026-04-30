@@ -100,7 +100,7 @@ python evaluate.py \
     run.checkpoint=[PATH_TO_CHECKPOINT]
 ```
 
-You can find CATSplat (Re10K) checkpoint [here](https://kuaicv.synology.me/iccv2025/CATSplat).
+You can find CATSplat (Re10K) checkpoint [here](https://kuaicv.synology.me/weights/iccv2025/CatSplat/CATSplat).
 
 # Citation
 If you find this project useful, please consider citing:
