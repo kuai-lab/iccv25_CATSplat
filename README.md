@@ -105,11 +105,12 @@ You can find CATSplat (Re10K) checkpoint [here ](https://kuaicv.synology.me/weig
 # Citation
 If you find this project useful, please consider citing:
 
-```
-@article{roh2024catsplat,
+```tex
+@inproceedings{roh2025catsplat,
   title={CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image},
   author={Roh, Wonseok and Jung, Hwanhee and Kim, Jong Wook and Lee, Seunggwan and Yoo, Innfarn and Lugmayr, Andreas and Chi, Seunggeun and Ramani, Karthik and Kim, Sangpil},
-  journal={arXiv preprint arXiv:2412.12906},
-  year={2024}
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={28228--28238},
+  year={2025}
 }
 ```
